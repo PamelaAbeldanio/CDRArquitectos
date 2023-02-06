@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "nombre": "Steel Framing",
+        "tipo": "steel framing",
+        "descripcion": "El steel framing es un sistema constructivo industrializado basado en la utilización de perfiles estructurales de acero liviano, en conjunto con otros componentes de aislación, división, fijación y terminación.",
+        "precio": 300,
+        "cantidad": 0,
+        "img": "steelframing.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Tradicional",
+        "tipo": "tradicional",
+        "descripcion": "La construcción tradicional, también llamada construcción húmeda, utiliza materiales y elementos como ladrillos, piedra, cemento, bloques, etc. con la particularidad de proceder a través de métodos manuales.",
+        "precio": 500,
+        "cantidad": 0,
+        "img": "tradicional.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Residencial",
+        "tipo": "residencial",
+        "descripcion": "Este tipo de construcciones se hacen específicamente para personas que quieren residir en ellas. Otra forma de llamar a este tipo de construcción es simplemente “casa”.",
+        "precio": 800,
+        "cantidad": 0,
+        "img": "residencial.webp"
+    },
+    {
+        "id": 4,
+        "nombre": "Industrial",
+        "tipo": "industrial",
+        "descripcion": "Los inmuebles industriales pueden ser construidos a mediana escala o grande, depende la magnitud del negocio.",
+        "precio": 400,
+        "cantidad": 0,
+        "img": "industrial.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Sustentable",
+        "tipo": "sustentable",
+        "descripcion": "La construcción sustentable minimiza el uso de los recursos y promueve la utilización de técnicas constructivas innovadoras con materiales de bajo impacto.",
+        "precio": 900,
+        "cantidad": 0,
+        "img": "ecologicas.jpg"
+    }
+
+]
